@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UKLView</string>
+    <string name="content_text">Kali ini bikin cemilan segar dari mangga manis yang bikin ketagihan, mumpung stok dikulkas lumayan banyak. Pudding Mangga ini lebih nikmat disajikan saat dingin ya.. yukk dicoba!!</string>
+    <string name="bahan_text">
+- 750 ml susu UHT
+
+- 2 buah mangga harum manis, kupas dan cuci
+
+- 7 sdm gula pasir (sesuai selera)
+
+- 1 sachet agar2 plain
+
+Topping :
+= Potongan mangga
+    </string>
+    <string name="langkah1">Blender susu, mangga, gula, dan agar2 menjadi 1 smpai teksturnya halus. Masak sampai mendidih dengan api sedang.</string>
+    <string name="langkah2">Setelah mendidih, tuang kedalam cetakan</string>
+    <string name="langkah3">Tambahkan potongan mangga diatasnya.</string>
+    <string name="langkah4">Masukkan dalam Kulkas lalu sajikan... Yummyyy!!</string>
+</resources>
