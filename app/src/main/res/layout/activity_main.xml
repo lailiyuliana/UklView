@@ -5,7 +5,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/activity_main"
     tools:context=".MainActivity"
-    android:background="@color/kuningmuda"
+    android:background="@color/white"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
@@ -341,24 +341,21 @@
                 android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
                 android:scaleType="fitXY"
-                android:src="@drawable/logooo" />
+                android:src="@drawable/header" />
 
         </FrameLayout>
 
-        <FrameLayout
-            android:layout_width="match_parent"
+        <TextView
+            android:layout_width="200dp"
             android:layout_height="wrap_content"
-            android:orientation="vertical">
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1"
+            android:text="@string/space"
+            android:textColor="@android:color/black"
+            android:textSize="14sp" />
 
 
-            <ImageView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:adjustViewBounds="true"
-                android:scaleType="fitXY"
-                android:src="@drawable/bg" />
-
-        </FrameLayout>
 
     </LinearLayout>
 
